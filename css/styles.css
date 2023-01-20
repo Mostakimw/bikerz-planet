@@ -1,3 +1,11 @@
 .bp-carousel-slide-btn {
     background-color: rgba(65, 105, 225, 0.499);
 }
+
+body {
+    overflow-x: hidden;
+}
+
+.hide {
+    display: hide !important;
+}
